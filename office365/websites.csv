@@ -1,4 +1,4 @@
 Site Type,Number of sites
-text,number
+string,number
 Internal,20
 External,42
