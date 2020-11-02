@@ -1,6 +1,6 @@
 {
-  "month": "September, 2020", 
-  "results": 
+  "year":2020,
+  "September": 
     [
      {
        "Branch": "Central Library",
@@ -25,6 +25,33 @@
      {
        "Branch": "Science Library",
        "Items": 29
+     }
+  ],
+  "October": 
+    [
+     {
+       "Branch": "Central Library",
+       "Items": 342
+     },
+     {
+       "Branch": "Biomedical Library",
+       "Items": 6
+     },
+     {
+       "Branch": "Peabody Library",
+       "Items": 57
+     },
+     {
+       "Branch": "Divinity Library",
+       "Items": 136
+     },
+     {
+       "Branch": "Management Library",
+       "Items": 245
+     },
+     {
+       "Branch": "Science Library",
+       "Items": 22
      }
   ]
 }  
